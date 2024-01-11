@@ -1,0 +1,9 @@
+$(".slider").YuxiSlider({
+    width:800,
+    height:450,
+    control:$('.control'), 
+    during:4000, 
+    speed:800, 
+    mousewheel:true, 
+    direkey:true 
+});
